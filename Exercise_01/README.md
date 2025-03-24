@@ -23,10 +23,5 @@ The Python code implements:
 
 For code details, refer to the file **`HX_Design_AlessiGiada.py`**.
 
-## 📈 Results
-The study highlights:
-- The initial design's limitations due to the air-side resistance.
-- The improved performance achieved by adding fins, with heat transfer increasing by **21%** while maintaining an acceptable pressure drop.
-
 ---
 **Author:** Giada Alessi
