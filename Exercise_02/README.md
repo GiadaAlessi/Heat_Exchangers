@@ -27,4 +27,4 @@ The implemented code generates:
 For code details, refer to the file ➡️ `HX_Activity.py`
 
 ---
-**Author:** Giada Alessi
+**Authors:** Giada Alessi, Sara-Medina Šehović, Albert Bartolome Castillo Mestre, Heloise Chapelle, Rajnesh Kumar
