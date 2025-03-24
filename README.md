@@ -2,9 +2,8 @@
 This repository contains coding exercises and reports related to the Heat Exchangers course.
 
 ## 📂 Repository Structure
-- **Exercise_01/** – Basic heat exchanger model using Python
-- **Exercise_02/** – Advanced numerical analysis using MATLAB
-- **Exercise_03/** – Thermal efficiency analysis using C++
+- **Exercise_01/** – Heat exchanger design and optimization using Python and the CoolProp library
 
 ## 🚀 How to Run
-Each exercise folder contains a `README.md` with detailed instructions for running the code and understanding the results.
+The Python code in `Exercise_01` can be run directly without additional setup. The necessary thermophysical properties are calculated using the **CoolProp** library. Detailed instructions and explanations are provided in the corresponding `README.md` inside the exercise folder.
+
