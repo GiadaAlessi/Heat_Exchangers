@@ -21,7 +21,7 @@ The Python code implements:
 - Optimization routine for improved performance.
 - Thermophysical properties for air and water evaluated using the **CoolProp** library to ensure accurate fluid property calculations.
 
-For code details, refer to the file **`HX_Design_AlessiGiada.py`**.
+For code details, refer to the file **`HX_Design_AlessiGiada.py`** and **`HX_ParetoFront_Design_AlessiGiada.py`**.
 
 ---
 **Author:** Giada Alessi
